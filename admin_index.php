@@ -6,7 +6,6 @@ include "functions.php";
 
       <div class='col-md-8'>
         <a href="create.php"><button class='btn btn-primary'>CREATE</button></a>
-        <a href="edit.php"><button class='btn btn-warning'>EDIT</button></a>
         <a href="delete.php"><button class="btn btn-danger">DELETE</button></a>
         <?php
           adminShowPosts();
