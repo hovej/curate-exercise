@@ -1,8 +1,8 @@
 <?php
   $db_host = 'localhost';
-  $db_user = 'id15067717_hovecuratedb';
-  $db_password = 'nH&9Bzb+w}RQluKF';
-  $database = 'id15067717_hove_curate_db';
+  $db_user = 'id15120613_curateadditions';
+  $db_password = '!HnFYJ@S8lDJsiz{';
+  $database = 'id15120613_curate_additions_db';
 
   $connection = mysqli_connect($db_host, $db_user, $db_password, $database);
 ?>
